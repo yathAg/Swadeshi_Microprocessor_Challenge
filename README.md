@@ -15,9 +15,17 @@ Shelfy is a modular, affordable and smart solution to
 resolve these issues and in turn enhances the supply
 chain while targeting the multi-billion-dollar
 warehousing industry.
+<br />
+
+## Gallery
+
+[Prototype Demonstration : https://youtu.be/PX6wxbi8uk8](https://youtu.be/PX6wxbi8uk8)
+<br />
 
 ![Shelfy](Images/Complete_system.JPG)
+<br />
 
 ![X_Axis](Images/X_Axis.JPG)
+<br />
 
 ![Z_Axis](Images/Z_Axis.JPG)
